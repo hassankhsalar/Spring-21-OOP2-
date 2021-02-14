@@ -1,0 +1,2 @@
+C:\Users\ground hog\Desktop\c#\task111\task111\obj\Debug\task111.csprojAssemblyReference.cache
+C:\Users\ground hog\Desktop\c#\task111\task111\obj\Debug\task111.csproj.CoreCompileInputs.cache
